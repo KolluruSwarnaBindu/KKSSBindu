@@ -1,6 +1,6 @@
 ### Hello, I'm Kolluru Bindu 👋
 
-I am an Electronics and Communication Engineering graduate with a strong interest in the exciting convergence of **Artificial Intelligence/Machine Learning** and **VLSI design**. While I'm currently building my foundational skills, my passion lies in exploring how to design efficient and optimized hardware for intelligent systems.
+I am an Electronics and Communication Engineering graduate(2025) with a strong interest in the exciting convergence of **Artificial Intelligence/Machine Learning** and **VLSI design**. While I'm currently building my foundational skills, my passion lies in exploring how to design efficient and optimized hardware for intelligent systems.
 
 - 🌱 I'm currently focused on strengthening my knowledge in **digital logic, Python for ML**.
 - 💡 My goal is to work on projects that bridge the gap between AI algorithms and the physical silicon that powers them.
